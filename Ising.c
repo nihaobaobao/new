@@ -3,7 +3,7 @@
 #include <math.h>
 #include <time.h>
 
-#define L 10 // Lattice size
+#define L 10 // Lattice size asdasdasd
 #define N (L*L*L) // Number of spins
 #define J 1.0 // Interaction energy
 #define KB 1.0 // Boltzmann constant
